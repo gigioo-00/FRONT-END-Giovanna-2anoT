@@ -2,6 +2,12 @@ body{
     background-color: #000000;
 }
 
+.btn {
+    border: none;      
+    color: rgb(240, 116, 116);      
+
+}
+
 h1{
     color: rgb(255, 255, 255);
     text-align: center;
