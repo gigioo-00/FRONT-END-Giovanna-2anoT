@@ -2,6 +2,46 @@ body{
     background-color: #000000;
 }
 
+.meu-botao {
+    /* Transforma o link em um elemento de bloco inline */
+    display: inline-block;
+  
+    /* Espaçamento interno (altura/largura do botão) */
+    padding: 12px 24px;
+  
+    /* Remove o sublinhado padrão de links */
+    text-decoration: none;
+  
+    /* Cores */
+    background-color: #4CAF50; /* Verde */
+    color: white;
+  
+    /* Bordas */
+    border-radius: 5px; /* Cantos arredondados */
+    border: 2px solid #45a049; /* Borda sutil */
+  
+    /* Texto */
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+  
+    /* Efeitos interativos */
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  /* Efeito hover (quando o mouse passa por cima) */
+  .botao-link:hover {
+    background-color: #45a049; /* Verde mais escuro */
+    transform: translateY(-2px); /* Levanta levemente */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra sutil */
+  }
+  
+  /* Efeito ao clicar */
+  .botao-link:active {
+    transform: translateY(1px);
+  }
+
 h1{
     color: rgb(255, 255, 255);
     text-align: center;
