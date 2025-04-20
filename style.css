@@ -3,22 +3,24 @@ body{
 }
 
 .btn-ouca-ja {
+    display: inline-block;
     padding: 15px 30px;
-    background-color: #1DB954; /* Verde Spotify */
+    background-color: #ffffff;
     color: white;
     text-decoration: none;
     font-size: 18px;
     font-weight: bold;
     border-radius: 50px;
     cursor: pointer;
-    transition: all 0.2s ease;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: inline-block;
 }
 
-btn-ouca-ja:hover {
-    background-color: #1ED760;
+.btn-ouca-ja:hover {
+    background-color: #ffffff;
     transform: translateY(-2px);
-    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 6px 8px rgba(255, 255, 255, 0.15);
 }
 
 .btn-ouca-ja:active {
