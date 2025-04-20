@@ -43,3 +43,8 @@ ol{
     font-size: 22px;
     text-align: left;
 }
+
+.gif {
+    border: 3px dashed rgb(255, 255, 255);
+    border-radius: 10px;
+}
