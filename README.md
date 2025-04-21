@@ -10,7 +10,7 @@
 
 <img src="img/LOGO - CRAZY.png" width="400px">
 
-➔ Na tela principal é apresentado ao usuário uma visão geral das principais versões da música com as capas de cada uma, e também alguns botões que levará a um link de um site externo (Youtube e Spotify).
+➔ Na tela principal é apresentado ao usuário uma visão geral das principais versões da música com as capas de cada uma, e também alguns botões que levará a um link de um site externo para conhecer cada clipe e música do albúm (Youtube e Spotify).
 
 <img src="img/PT1 - FRONT.png" width="400px">
 
