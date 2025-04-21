@@ -22,7 +22,7 @@ RESUMO:
 ↝ Título "CRAZY" em destaque.<br>
 ↝ Identificação do artista "LE SSERAFIM".<br>
 
-*Seção com as 4 versões disponíveis:*
+**Seção com as 4 versões disponíveis:**
 
 ↝ Versão Japonesa (JP).<br>
 ↝ Versão com participação especial (FEAT).<br>
