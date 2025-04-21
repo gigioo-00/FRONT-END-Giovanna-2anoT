@@ -40,6 +40,6 @@ ol {
 }
 
 .gif {
-    border: 3px dashed rgb(255, 255, 255);
+    border: 3px;
     border-radius: 10px;
 }
