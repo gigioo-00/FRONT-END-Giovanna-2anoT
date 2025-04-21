@@ -8,15 +8,12 @@
 
 ➔ como título principal optei por um desing pronto, sendo uma imagem de uma das versões de logo da principal faixa do álbum (CRAZY).
 
-<center>
 <img src="img/LOGO - CRAZY.png" width="400px">
-</center>
 
 ➔ Na tela principal é apresentado ao usuário uma visão geral das principais versões da música com as capas de cada uma, e também alguns botões que levará a um link de um site externo (Youtube e Spotify).
 
-<center>
 <img src="img/PT1 - FRONT.png" width="400px">
-</center>
+
 
 RESUMO:
 
@@ -42,12 +39,11 @@ RESUMO:
 ➔ Na segunda parte, será visível uma seção dedicada a uma breve introdução do álbum, onde haverá uma breve apresentação do álbum e um aprofundamento sobre as faixas musicais, revelando seus conceitos.<br>
 (ao final é possivel ver um gif das membros no clipe!)
 
-<center>
+
 <img src="img/PT2 - FRONT.png" width="400px">
-</center>
-<center>
+
 <img src="img/GIF - FINAL.gif" width="200px">
-</center>
+
 
 RESUMO:
 
