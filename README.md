@@ -20,7 +20,7 @@ RESUMO:
 **Elementos principais:**
 
 ↝ Título "CRAZY" em destaque.<br>
-↝ Identificação do artista "LE SSERAFIM".<br>
+↝ Identificação do artista "LE SSERAFIM" ao topo do site.<br>
 
 **Seção com as 4 versões disponíveis:**
 
