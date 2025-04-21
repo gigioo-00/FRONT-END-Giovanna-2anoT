@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #000000;
 }
 
@@ -22,18 +22,19 @@ body{
     transform: scale(0.95);
 }
 
-h1{
+h1 {
     color: rgb(255, 255, 255);
     text-align: center;
 }
- p{
-    color:#ffffff;
+
+p {
+    color: #ffffff;
     font-size: 23px;
     text-align: center;
- }
+}
 
-ol{
-    color:rgb(255, 255, 255);
+ol {
+    color: rgb(255, 255, 255);
     font-size: 22px;
     text-align: left;
 }
