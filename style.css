@@ -6,26 +6,20 @@ body{
     display: inline-block;
     padding: 15px 30px;
     background-color: #ffffff;
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     font-size: 18px;
-    font-weight: bold;
     border-radius: 50px;
     cursor: pointer;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    display: inline-block;
 }
 
 .btn-ouca-ja:hover {
     background-color: #ffffff;
     transform: translateY(-2px);
-    box-shadow: 0 6px 8px rgba(255, 255, 255, 0.15);
 }
 
 .btn-ouca-ja:active {
     transform: scale(0.95);
-    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
 }
 
 h1{
@@ -34,7 +28,7 @@ h1{
 }
  p{
     color:#ffffff;
-    font-size: 25px;
+    font-size: 23px;
     text-align: center;
  }
 
